@@ -1,6 +1,6 @@
 # e-commerce
 
-> A Vue.js project
+> 一个仿锤子的电商网站
 
 ## Build Setup
 
